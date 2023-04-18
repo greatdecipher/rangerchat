@@ -28,3 +28,8 @@ A chatting application that has a realtime loading of data with Ajax and Django 
 * python manage.py makemigrations
 * python manage.py migrate
 * python manage.py runserver
+
+# Contribute to my project
+* Add new features.
+* Create a profile page for users.
+* Improve UI/UX.
