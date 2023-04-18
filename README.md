@@ -27,7 +27,7 @@ A chatting application that has a realtime loading of data with Ajax and Django 
 * Enter the superuser details in DATABASES which is located in settings.py
 * python manage.py makemigrations
 * python manage.py migrate
-* python manage.py runserver
+* python manage.py runserver and it will automatically choose http://127.0.0.1:8080/ (you can always change port)
 
 # Contribute to my project
 * Add new features.
